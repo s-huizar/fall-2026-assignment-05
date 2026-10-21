@@ -17,11 +17,11 @@
   },
   {
     "id": 3,
-    "name": "Dog Print",
-    "price": 14.55,
+    "name": "Bird Print",
+    "price": 14.23,
     "category": "Print",
-    "description": "A print of a painting of a dog.",
-    "imageUrl": "./images/product2.jpg"
+    "description": "A print of a painting of a bird.",
+    "imageUrl": "./images/product3.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "price": 14.55,
     "category": "Print",
     "description": "A print of a painting of a dog.",
-    "imageUrl": "./images/product2.jpg"
+    "imageUrl": "./images/product4.jpg"
   },
   {
     "id": 5,
