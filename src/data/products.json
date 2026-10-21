@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Cat Print",
+    "price": 20.99,
+    "category": "Print",
+    "description": "A print of a painting of a cat.",
+    "imageUrl": "./images/product1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dog Print",
+    "price": 14.55,
+    "category": "Print",
+    "description": "A print of a painting of a dog.",
+    "imageUrl": "./images/product2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dog Print",
+    "price": 14.55,
+    "category": "Print",
+    "description": "A print of a painting of a dog.",
+    "imageUrl": "./images/product2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dog Print",
+    "price": 14.55,
+    "category": "Print",
+    "description": "A print of a painting of a dog.",
+    "imageUrl": "./images/product2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dog Print",
+    "price": 14.55,
+    "category": "Print",
+    "description": "A print of a painting of a dog.",
+    "imageUrl": "./images/product2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Dog Print",
+    "price": 14.55,
+    "category": "Print",
+    "description": "A print of a painting of a dog.",
+    "imageUrl": "./images/product2.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dog Print",
+    "price": 14.55,
+    "category": "Print",
+    "description": "A print of a painting of a dog.",
+    "imageUrl": "./images/product2.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Dog Print",
+    "price": 14.55,
+    "category": "Print",
+    "description": "A print of a painting of a dog.",
+    "imageUrl": "./images/product2.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Dog Print",
+    "price": 14.55,
+    "category": "Print",
+    "description": "A print of a painting of a dog.",
+    "imageUrl": "./images/product2.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Dog Print",
+    "price": 14.55,
+    "category": "Print",
+    "description": "A print of a painting of a dog.",
+    "imageUrl": "./images/product2.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Dog Print",
+    "price": 14.55,
+    "category": "Print",
+    "description": "A print of a painting of a dog.",
+    "imageUrl": "./images/product2.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Dog Print",
+    "price": 14.55,
+    "category": "Print",
+    "description": "A print of a painting of a dog.",
+    "imageUrl": "./images/product2.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Dog Print",
+    "price": 14.55,
+    "category": "Print",
+    "description": "A print of a painting of a dog.",
+    "imageUrl": "./images/product2.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Dog Print",
+    "price": 14.55,
+    "category": "Print",
+    "description": "A print of a painting of a dog.",
+    "imageUrl": "./images/product2.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Dog Print",
+    "price": 14.55,
+    "category": "Print",
+    "description": "A print of a painting of a dog.",
+    "imageUrl": "./images/product2.jpg"
+  }
+]
