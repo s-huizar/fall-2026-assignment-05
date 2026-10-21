@@ -1,4 +1,4 @@
-import data from "./src/data/products.json" with {type: "json"}
+import data from "../src/data/products.json" with {type: "json"}
 
 // Pagination variable
 let currentPage = 1;
