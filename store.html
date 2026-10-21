@@ -4,9 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sam's Art Store</title>
+<link rel="stylesheet" href="./src/styles/main.css">
 </head>
+
+<h1>Catalog</h1>
+
+<!--Product Grid Container-->
+<div id="product-containter" class="product-grid"></div>
+
+<!--Page controls-->
+<div class=""pagination">
+    <button id=""prev-btn" onclick="changePage(-1)">Previous</button>
+    <span id=""page-info">Page 1</span>
+    <button id="next-btn" onclick="changePage(1)">Next</button>
+</div>
 <body>
     //renders products on page load
     renderProducts();
+    <script src="./src/main.js"></script>
 </body>
 </html>
